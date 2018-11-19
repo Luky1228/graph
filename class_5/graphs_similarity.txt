@@ -1,0 +1,22 @@
+## Graphs Similarity ##
+
+# Graph edit distance
+
+https://en.wikipedia.org/wiki/Graph_edit_distance
+
+# Special case (Levenstein, Hamming)
+
+https://en.wikipedia.org/wiki/Levenshtein_distance
+
+# How to find shortest path (Dijkstra, A*)
+
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+https://en.wikipedia.org/wiki/A*_search_algorithm
+
+# A*GED
+
+https://core.ac.uk/download/pdf/33054885.pdf
+
+# NetwrokX implementation of GED
+
+https://networkx.github.io/documentation/latest/reference/algorithms/similarity.html
